@@ -17,7 +17,7 @@ $$\Pr(Z \geq \theta \, \mathbb{E}[Z]) \;\geq\; (1 - \theta)^2 \;\frac{(\mathbb{E
 
 ## Status
 
-🚧 Work in progress — theorem statement is set up, proof forthcoming.
+Work in progress — theorem statement is set up, proof forthcoming.
 
 ## Building
 
