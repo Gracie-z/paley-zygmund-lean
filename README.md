@@ -15,9 +15,6 @@ $$\Pr(Z \geq \theta \, \mathbb{E}[Z]) \;\geq\; (1 - \theta)^2 \;\frac{(\mathbb{E
 3. Apply Cauchy–Schwarz to the first term
 4. Rearrange to obtain the inequality
 
-## Status
-
-Work in progress — theorem statement is set up, proof forthcoming.
 
 ## Building
 
@@ -28,6 +25,3 @@ lake exe cache get
 lake build
 ```
 
-## References
-
-- Paley, R.E.A.C.; Zygmund, A. (1932). "A note on analytic functions in the unit circle". *Mathematical Proceedings of the Cambridge Philosophical Society*.
