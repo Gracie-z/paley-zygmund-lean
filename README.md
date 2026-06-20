@@ -12,7 +12,7 @@ $$\Pr(Z \geq \theta \, \mathbb{E}[Z]) \;\geq\; (1 - \theta)^2 \;\frac{(\mathbb{E
 
 1. Split the expectation: E[Z] = E[Z · 1_{Z ≥ θE[Z]}] + E[Z · 1_{Z < θE[Z]}]
 2. Bound the second term by θ · E[Z]
-3. Apply Cauchy–Schwarz to the first term
+3. Apply Jensen's inequality to the first term (for technical reasons, we chose Jensen over Cauchy-Schwartz)
 4. Rearrange to obtain the inequality
 
 
